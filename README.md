@@ -2,7 +2,7 @@
 
 By Wen Wang, Jing Zhang, Yang Cao, Yongliang Shen, and Dacheng Tao
 
-This repository is an official implementation of DE-DETR and DELA-DETR in the paper [Towards Data-Efficient Detection Transformers](https://arxiv.org/abs/2203.09507).
+This repository is an official implementation of DE-DETR and DELA-DETR in the paper [Towards Data-Efficient Detection Transformers](https://arxiv.org/abs/2203.09507), which is accepted to ECCV 2022.
 
 For the implementation of DE-CondDETR and DELA-CondDETR, please refer to [DE-CondDETR](https://github.com/encounter1997/DE-CondDETR).
 
