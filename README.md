@@ -128,12 +128,10 @@ This project is based on [DETR](https://github.com/facebookresearch/detr) and [D
 ## Citing DE-DETRs
 If you find DE-DETRs useful in your research, please consider citing:
 ```bibtex
-@misc{wang2022towards,
-      title={Towards Data-Efficient Detection Transformers}, 
-      author={Wen Wang and Jing Zhang and Yang Cao and Yongliang Shen and Dacheng Tao},
-      year={2022},
-      eprint={2203.09507},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{wang2022towards,
+  title     =  {Towards Data-Efficient Detection Transformers},
+  author    =  {Wen Wang and Jing Zhang and Yang Cao and Yongliang Shen and Dacheng Tao},
+  booktitle =  {Proc. Eur. Conf. Computer Vision (ECCV)},
+  year      =  {2022}
 }
 ```
